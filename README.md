@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on:<br>Full-stack SavePET web app using React, Node.js, and databases.<br><br>👯 Looking to collaborate on:<br>Open-source and beginner-friendly web projects.<br><br>🤝 Looking for help with:<br>System design basics and scalable backend patterns.<br><br>🌱 Currently learning:<br>Advanced React, backend optimization, and DSA.<br><br>💬 Ask me about:<br>React bugs I fixed at 2 AM, APIs that finally worked, and why console.log is my best friend.<br><br>⚡ Fun fact:<br>I learn best by building real projects.
+🔭 Currently working on:<br>Full-stack SavePET web app using React, Node.js, and MongoDB.<br><br>👯 Looking to collaborate on:<br>Open-source and beginner-friendly web projects.<br><br>🤝 Looking for help with:<br>System design basics and scalable backend patterns.<br><br>🌱 Currently learning:<br>Advanced React, backend optimization, and DSA.<br><br>💬 Ask me about:<br>React bugs I fixed at 2 AM, APIs that finally worked, and why console.log is my best friend.<br><br>⚡ Fun fact:<br>I learn best by building real projects.
 
 
 ## 🌐 Socials:
